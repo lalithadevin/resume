@@ -140,5 +140,5 @@ function achieve(ac)
 }
 function openpage()
 {
-    window.open("resume.html","_self",true);
+    window.open("newproject.html","_self",true);
 }
