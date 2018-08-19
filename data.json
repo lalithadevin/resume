@@ -1,0 +1,62 @@
+{
+	"details":{
+		"Image":"image1.jpg",
+		"Name":"lalitha",
+		"Phoneno":"+91-9949584458",
+		"Email":"lalithadevieluri@gmail.com",
+		"Address":"VIGNAN NIRULA COLLEGE,GUNTUR"
+	},
+	"career":{
+		"information":"to pursue a challenging career",
+        "qualification":"b.tech"
+
+	},
+    "educationinfo":[
+    	{
+       "qualification":"b.tech",
+       "institute":"vignan's nirula",
+       "year":"2016-2020",
+       "percentage":"80%"
+   },
+   {
+       "qualification":"inter",
+       "institute":"sri chaitanya",
+       "year":"2014-2016",
+       "percentage":"89%"
+     },
+     {  
+       "qualification":"ssc",
+       "institute":"gowtham concept school",
+       "year":"2013-2014",
+       "percentage":"97%"
+     }
+
+   ],
+    "technicalskills":[{
+    	 "title":"programming languages",
+    	 "info":["c","c++","java","pyhton"]
+       },
+       {
+       	"title":"databases",
+       	"info":["oracle","sql","mysql"]
+       },
+       {
+       	"title":"operating systems",
+       	 "info":["windows","macos","linux","android"]
+       }
+   ] ,
+   "achievements":[{
+         "achievement":"got several prizes in coding tests",
+         "info":["code mania","code jam"]
+     },
+     {
+      "achievement":"completed my internship in  companies like",
+      "info":["tcs"]
+     },
+     {
+         "achievement":"Did several projects on languages:",
+         "info":["c","python","java"]
+          }
+   ]   
+}
+
